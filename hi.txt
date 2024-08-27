@@ -1,1 +1,3 @@
-hello!
+Content from the branch you’re currently on
+Content from the branch you’re merging
+
